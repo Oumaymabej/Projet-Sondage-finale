@@ -100,6 +100,15 @@ Lancement de l’application
     Important : pour démarrer l’app, cliquez sur server.R dans RStudio puis sur “Run App”.
     L’interface se lancera dans votre navigateur à l’adresse http://127.0.0.1:xxxx
 
+![acceuil](img/acceuil.png)
+![barre_bivarié](img/barre_bivarié.png)
+![barre_bivarié](img/barre_bivarié.png)
+![box_plot_multivarié](img/box_plot_multivarié.png)
+![SAS](img/SAS.png)
+![scatter_plot](img/scatter_plot.png)
+![startification](img/startification.png)
+![telechargement](img/telechargement.png)
+![univariépng](img/univariépng.png)
 
 
 
